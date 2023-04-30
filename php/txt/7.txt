@@ -1,0 +1,10 @@
+date 20 9 2022
+Name ashvika weight
+age, gender 4 yr/f 13.25 kg
+clinical Descriptuon 
+clrti RR 22/min 
+R5- B/L OEE
+
+advice 
+syp CALPOL (250/5) 4ml Q6H X 30
+syp Delcon 3ml tds X 50

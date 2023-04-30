@@ -1,0 +1,15 @@
+Supersize Health Center 
+123 main Street Big City, Upstate 12345
+Name cindly Allen date 081313
+phone 1234567890 DOB 02/24/73
+Address
+34 cherry Lane 
+Anytown, USA 22222
+Description:
+Metformin 500mg
+1 tab po bd, # 60
+2 refeills
+dr best, md
+Dispenses as written substitrution permissible 
+DEA#
+NP
